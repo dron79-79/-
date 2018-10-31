@@ -1,0 +1,28 @@
+# Config files
+# Files directories
+#Themes directories
+/Themes/*
+# Files
+Thumbs.db
+*.log
+*.txt
+*.sql
+*.tar
+*.tgz
+*.tar.gz
+*.zip
+*.rar
+*.bin
+.directory
+*.orig
+# IDEs project files
+*.sublime-*
+.idea/
+/nbproject
+# Libraries have received via Composer
+composer.phar
+composer.lock
+composer.json
+vendor/*
+# gitkeep for empty directories
+!.gitkeep
