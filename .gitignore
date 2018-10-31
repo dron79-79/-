@@ -6,7 +6,6 @@
 Thumbs.db
 *.log
 *.txt
-*.sql
 *.tar
 *.tgz
 *.tar.gz
